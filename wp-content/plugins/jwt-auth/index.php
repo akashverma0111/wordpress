@@ -1,0 +1,1 @@
+jwt-authentication-for-wp-rest-api
